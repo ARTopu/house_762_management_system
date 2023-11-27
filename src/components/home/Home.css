@@ -1,0 +1,104 @@
+.containerHome{
+    margin: 10px;
+    padding: 10px;
+    background-color:rgb(255, 225, 0);
+    border-radius: 5px;
+    
+}
+
+.containerHome h1{
+    text-align: center;
+    color: rgb(234, 49, 49);
+}
+
+.cardsHome{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.cardHome1{
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(255, 85, 0);
+    display: flex;
+    border-radius: 10px;
+}
+
+.cardIcon1{
+    padding-top: 30%;
+    padding-right: 15px;
+    justify-content: center;
+}
+
+.cardText1{
+    padding-right: 10px;
+}
+
+.cardHome2{
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(80, 175, 7);
+    display: flex;
+    border-radius: 10px;
+}
+
+.cardIcon2{
+    padding-top: 24%;
+    padding-right: 15px;
+    justify-content: center;
+}
+
+.cardText2{
+    padding-top: 6.5%;
+    padding-right: 10px;
+}
+
+.cardHome3{
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(55, 191, 221);
+    display: flex;
+    border-radius: 10px;
+}
+
+.cardIcon3{
+    padding-top: 30%;
+    padding-right: 15px;
+    justify-content: center;
+}
+
+.cardText3{
+    padding-right: 10px;
+}
+
+.cardHome4{
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(205, 71, 222);
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+}
+
+.cardIcon4{
+    
+    padding-right:  5px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.cardText4{
+    padding-right: 10px;
+    gap:0px;
+}
+
+.mealBox{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.mealBox h3{
+    padding-top: 5px;
+}
